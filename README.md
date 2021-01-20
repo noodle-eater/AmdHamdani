@@ -7,10 +7,7 @@ Reach me on social media
 <p>
   <a href="https://www.linkedin.com/in/amdhamdani/">
     <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/linkedin-box-fill-1.png" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/amd.hamdani">
-    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/instagram-fill-2.png" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp
   <a href="https://twitter.com/amdhamdani">
     <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/twitter-fill-1.png" />
   </a>&nbsp;&nbsp;
