@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+Hello, I am Ahmad Hamdani a Tools Programmer in Agate and an Indie Game Developer. I always curious in how things works and eager to learn new things, especially in Tech. My field of interest is Game Development, Game Tools, Procedural Content Generation, Design Pattern, Software Architecture, Compiler/Interpreter and Writing.
+
+## Social Media
+Reach me on social media
+<p>
+  <a href="https://www.linkedin.com/in/amdhamdani/">
+    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/linkedin-box-fill-1.png" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/amd.hamdani">
+    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/instagram-fill-2.png" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/amdhamdani">
+    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/twitter-fill-1.png" />
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@amdhamdani">
+    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/medium-fill-1.png" />
+  </a>&nbsp;&nbsp;
+</p>
+
+## Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmdHamdani&show_icons=true">
+
 <!--
 **AmdHamdani/AmdHamdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
