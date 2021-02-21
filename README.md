@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I am Ahmad Hamdani a Tools Programmer in Agate and an Indie Game Developer. I always curious in how things works and eager to learn new things, especially in Tech. My field of interest is Game Development, Game Tools, Procedural Content Generation, Design Pattern, Software Architecture, Compiler/Interpreter and Writing.
+Hello, I am Ahmad Hamdani a Tools Programmer in Agate and an Indie Game Developer. I always curious in how things works and eager to learn new things. I am interested in  Game Development, Game Tools, Procedural Content Generation, Design Pattern, Software Architecture, Compiler/Interpreter, Reading and Writing.
 
 ## Social Media
 Reach me on social media
